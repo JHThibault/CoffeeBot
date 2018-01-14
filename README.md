@@ -12,9 +12,11 @@ How to use:
 
 1. Download the code
 2. Open coffee.ino in the Arduino editor.
-2. Change the WI-FI settings. 
-3. Flash
-4. Enjoy a nice hot cup of joe
+3. Change the WI-FI settings.
+4. Set AdafruitIO Key and username
+5. add "Coffee_feed" to AdafruitIO
+6. Flash
+7. Enjoy a nice hot cup of joe
 
 
 ##Articles about the Wemos switch
